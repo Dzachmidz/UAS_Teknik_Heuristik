@@ -87,7 +87,7 @@ Total jarak terpendek: 2362.2515386253785 km
 
 | Dataset | CSV |
 | ------ | ------ |
-| Data jarak antar kota | [https://github.com/Dzachmidz/UAS_Teknik_Heuristik/blob/main/Dataset/data_jarak_antar%20kota_jawa%20timur.csv][PlDb] |
+| Data jarak antar kota | [https://github.com/Dzachmidz/UAS_Teknik_Heuristik/blob/main/Dataset/data_jarak_antar%20kota_jawa%20timur.csv] |
 
 
 
