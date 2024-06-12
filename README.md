@@ -51,7 +51,7 @@ Total jarak terpendek: 2362.2515386253785 km
 
 
 ## Plot Draw
-![https://github.com/Dzachmidz/UAS_Teknik_Heuristik/blob/main/DrawPlot/DRAW.png](?raw=true)
+![alt text](https://github.com/Dzachmidz/UAS_Teknik_Heuristik/blob/main/DrawPlot/DRAW.png?raw=true)
 
 ## Dataset
 
