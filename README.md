@@ -72,6 +72,7 @@ Fitness before training: 0.00034795970935907013
 Fitness after training: 0.00042332494387194327
 
 Target distance: 450.0
+
 ----------------------------------------------------------------
 
 Rute terpendek: Kota Surabaya -  Kabupaten Probolinggo -  Kota Mojokerto -  Kota Pasuruan -  Kota Blitar -  Kota Madiun -  Kota Batu -  Kota Probolinggo -  Kota Kediri -  Kabupaten Magetan -  Kabupaten Pacitan -  Kabupaten Situbondo -  Kabupaten Trenggalek -  Kabupaten Bondowoso -  Kabupaten Madiun -  Kota Malang -  Kabupaten Pamekasan -  Kabupaten Nganjuk -  Kabupaten Ponorogo -  Kabupaten Sampang -  Kabupaten Bangkalan -  Kabupaten Mojokerto -  Kabupaten Ngawi -  Kabupaten Tulungagung -  Kabupaten Lumajang -  Kabupaten Sumenep - Kota Surabaya -  Kabupaten Blitar -  Kabupaten Bojonegoro -  Kabupaten Tuban -  Kabupaten Gresik -  Kabupaten Sidoarjo -  Kabupaten Lamongan -  Kabupaten Jombang -  Kabupaten Pasuruan -  Kabupaten Kediri -  Kabupaten Banyuwangi -  Kabupaten Jember -  Kabupaten Malang - Kota Surabaya
