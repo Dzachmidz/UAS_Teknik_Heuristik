@@ -21,7 +21,6 @@
 
 ## Output
 Generation 10: Best Distance = 2506.0714701280513, Best Fitness = 0.00039903091827979815
-
 Generation 20: Best Distance = 2389.271384011625, Best Fitness = 0.0004185376373281565
 
 Generation 30: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
