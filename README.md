@@ -4,7 +4,7 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/Dzachmidz/UAS_Teknik_Heuristik.git)
 
-[![made-with-sphinx-doc](https://img.shields.io/badge/Dataset-CSV-1f425f.svg)](https://www.sphinx-doc.org/)
+[![made-with-sphinx-doc](https://img.shields.io/badge/Dataset-CSV-1f425f.svg)]([https://www.sphinx-doc.org/](https://github.com/Dzachmidz/UAS_Teknik_Heuristik/blob/main/Dataset/data_jarak_antar%20kota_jawa%20timur.csv))
 
 ## Anggota Kelompok :
 
@@ -55,13 +55,10 @@ Total jarak terpendek: 2362.2515386253785 km
 
 ## Dataset
 
-| Plugin | README |
+| Dataset | CSV |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
+| Data Jarak Antar Kota | [https://github.com/Dzachmidz/UAS_Teknik_Heuristik/blob/main/Dataset/data_jarak_antar%20kota_jawa%20timur.csv][PlDb] |
+
 
 
 ## License
