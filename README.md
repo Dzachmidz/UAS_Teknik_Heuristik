@@ -21,37 +21,61 @@
 
 ## Output
 Generation 10: Best Distance = 2506.0714701280513, Best Fitness = 0.00039903091827979815
+
 Generation 20: Best Distance = 2389.271384011625, Best Fitness = 0.0004185376373281565
 
 Generation 30: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 40: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 50: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 60: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 70: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 80: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 90: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 100: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 110: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 120: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 130: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 140: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 150: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 160: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 170: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 180: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 190: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
+
 Generation 200: Best Distance = 2362.2515386253785, Best Fitness = 0.00042332494387194327
 
 ----------------------------------------------------------------
 Generation: 200
+
 Fittest chromosome distance before training: 2873.895951465087
+
 Fittest chromosome distance after training: 2362.2515386253785
+
 Fitness before training: 0.00034795970935907013
+
 Fitness after training: 0.00042332494387194327
+
 Target distance: 450.0
 ----------------------------------------------------------------
 
 Rute terpendek: Kota Surabaya -  Kabupaten Probolinggo -  Kota Mojokerto -  Kota Pasuruan -  Kota Blitar -  Kota Madiun -  Kota Batu -  Kota Probolinggo -  Kota Kediri -  Kabupaten Magetan -  Kabupaten Pacitan -  Kabupaten Situbondo -  Kabupaten Trenggalek -  Kabupaten Bondowoso -  Kabupaten Madiun -  Kota Malang -  Kabupaten Pamekasan -  Kabupaten Nganjuk -  Kabupaten Ponorogo -  Kabupaten Sampang -  Kabupaten Bangkalan -  Kabupaten Mojokerto -  Kabupaten Ngawi -  Kabupaten Tulungagung -  Kabupaten Lumajang -  Kabupaten Sumenep - Kota Surabaya -  Kabupaten Blitar -  Kabupaten Bojonegoro -  Kabupaten Tuban -  Kabupaten Gresik -  Kabupaten Sidoarjo -  Kabupaten Lamongan -  Kabupaten Jombang -  Kabupaten Pasuruan -  Kabupaten Kediri -  Kabupaten Banyuwangi -  Kabupaten Jember -  Kabupaten Malang - Kota Surabaya
+
 Total jarak terpendek: 2362.2515386253785 km
 
 
