@@ -6,6 +6,10 @@
 
 [![made-with-sphinx-doc](https://img.shields.io/badge/Dataset-CSV-1f425f.svg)]([https://www.sphinx-doc.org/](https://github.com/Dzachmidz/UAS_Teknik_Heuristik/blob/main/Dataset/data_jarak_antar%20kota_jawa%20timur.csv))
 
+## Dosen Pengampu :
+- Andreas Nugroho Sihananto, S.Kom., M.Kom.
+
+
 ## Anggota Kelompok :
 
 - 21081010027 Diaz Prisheila Dharmawan
@@ -57,7 +61,8 @@ Total jarak terpendek: 2362.2515386253785 km
 
 | Dataset | CSV |
 | ------ | ------ |
-| Data Jarak Antar Kota | [https://github.com/Dzachmidz/UAS_Teknik_Heuristik/blob/main/Dataset/data_jarak_antar%20kota_jawa%20timur.csv][PlDb] |
+| Data jarak antar kota | [https://github.com/Dzachmidz/UAS_Teknik_Heuristik/blob/main/Dataset/data_jarak_antar%20kota_jawa%20timur.csv][PlDb] |
+
 
 
 
